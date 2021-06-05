@@ -1,12 +1,12 @@
 # Welcome
-## By: Brianna Wei
+### By: Brianna Wei
 
 ![xps-zcbtpjgToUY-unsplash](https://user-images.githubusercontent.com/84175061/120878324-75e6c880-c570-11eb-913d-271455d1c27e.jpg)
 
 
 
 ### List of CIT 281 Labs (with description):
-```
+
 - [Lab 1](https://briannawei.github.io/cit281-lab01/)
   - Install and setup your personal computer with the software tools required for this course, Practice using software tools, Practice terminal or shell commands, Practice keyboard shortcuts and Create your first Node.js server-side JavaScript file
 
@@ -35,11 +35,10 @@
   - Create Learning Lab course/repo within your GitHub account, Practice exiting and returning to the course from course repo, Work through course, Download completed course repo as deliverable
 
 
-```
 
 
 ### List of CIT 281 Projects (with description):
-```
+
 - [Project 1](https://briannawei.github.io/cit281-p1/)
   - Use the command line interface (CLI) of your operating system to create a number of folders, List the folders in a tree-like structure, Use the ping command, and practice using the break keyboard sequence. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
   
@@ -61,6 +60,6 @@
 - [Project 7](https://briannawei.github.io/cit281-p7/)
   - Creating an initial version of your CIT Minor portfolio using GitHub Pages. Creating an organization-level or user-level GitHub Page, and adding content to this Page. This Page will be the entry web page for your portfolio. Creating repos for each of the labs and projects, Creating a GitHub Page for each of the labs and projects that provides a brief description of the lab or project, and a screen capture. Adding links to the organization or user Page to each of the labs and projects
 
-```
+
 
 
